@@ -1,0 +1,11 @@
+# Frontend
+frontend-clients/web-portal/node_modules/
+frontend-clients/web-portal/.next/
+
+# Backend
+backend-services/venv/
+backend-services/__pycache__/
+backend-services/super_platform.db
+
+# OS
+.DS_Store
